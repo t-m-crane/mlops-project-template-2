@@ -28,8 +28,3 @@ variable "env" {
   type        = string
   description = "Environment prefix"
 }
-
-variable "log_analytics_workspace_id" {
-  type        = string
-  description = "Log Analytics Workspace Id"
-}
